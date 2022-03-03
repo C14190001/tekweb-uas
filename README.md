@@ -2,16 +2,16 @@
 
 Preview:
 1. Halaman Utama:
-![a](https://user-images.githubusercontent.com/92979532/156512297-21a7cce9-8bad-40c4-9e62-6e6c33746f2b.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/92979532/156529688-132115e9-529d-44e5-a55a-1890c9840d86.png)
 
 2. Halaman Login:
-![b](https://user-images.githubusercontent.com/92979532/156512306-9a057be0-54c4-4491-b74d-97e7b1dfa444.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/92979532/156529746-c4be9da0-ac82-4e9d-add9-3744841f1ad0.png)
 
 3. Add to Cart:
-![c](https://user-images.githubusercontent.com/92979532/156512324-eda47817-1037-4f54-838a-c2b05682b87a.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/92979532/156529772-2d53af7b-19c6-4a01-8873-1457939b393e.png)
 
-4. Halaman Cart:
-![d](https://user-images.githubusercontent.com/92979532/156511472-34a5caba-b961-405a-83b1-3f645bef799b.png)
+4. Halaman Cart (Order All):
+![Screenshot (106)](https://user-images.githubusercontent.com/92979532/156529787-69de9f2f-5712-4de2-9ba9-5c2c1117d476.png)
 
 5. Halaman Status:
-![e](https://user-images.githubusercontent.com/92979532/156511476-728212ff-fc8e-479b-81b0-966dcaa636ad.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/92979532/156529803-8c4b5b59-dee9-4702-8151-57bd5fac804b.png)
